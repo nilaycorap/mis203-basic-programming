@@ -28,3 +28,25 @@ Tests:
 
 Why does the order of the rules matter?
 The order matters because Python evaluates if/elif conditions sequentially and stops at the first true condition. If the Student rule came before the Child rule, a 10-year-old student would receive the 30% Student discount instead of the more favorable 40% Child discount.
+
+## Week 4 - Smart Expense Tracker
+
+Project Description
+
+Smart Expense Tracker is a simple Python project designed to help users track their daily expenses. The program allows users to enter their expenses, categorize them, and calculate their total spending.
+
+Features
+
+* Add new expenses.
+* Categorize expenses.
+* Display all recorded expenses.
+* Calculate total expenses.
+* Help users manage their daily budget.
+
+Technologies Used
+
+* Python
+
+Purpose
+
+The purpose of this project is to practice basic Python programming concepts and develop a useful application for managing personal expenses.
