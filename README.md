@@ -47,6 +47,12 @@ Technologies Used
 
 * Python
 
-Purpose
+## Lab 04 - Savings Goal Planner
+
+I made a savings goal planner using Python.
+
+Test I ran: Starting balance 1000, monthly deposit 500, interest rate 1%, and goal 3000. The program reached the goal in 4 months.
+
+Change after testing: I added a check to stop the program when the balance reaches the goal.
 
 The purpose of this project is to practice basic Python programming concepts and develop a useful application for managing personal expenses.
