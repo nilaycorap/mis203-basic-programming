@@ -53,6 +53,20 @@ I made a savings goal planner using Python.
 
 Test I ran: Starting balance 1000, monthly deposit 500, interest rate 1%, and goal 3000. The program reached the goal in 4 months.
 
+# Week 5 Lab: Reusable Shipping Quote
+
+## Description
+This program calculates subtotal, discount rate,
+shipping fee, and final total using reusable functions.
+
+## Test performed
+I tested the discount threshold at $100 using assert.
+
+## Change after testing
+I added a boundary test to check that a $100 subtotal
+receives a 10% discount and free shipping.
+
+
 Change after testing: I added a check to stop the program when the balance reaches the goal.
 
 The purpose of this project is to practice basic Python programming concepts and develop a useful application for managing personal expenses.
