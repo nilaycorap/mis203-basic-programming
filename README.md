@@ -70,3 +70,42 @@ receives a 10% discount and free shipping.
 Change after testing: I added a check to stop the program when the balance reaches the goal.
 
 The purpose of this project is to practice basic Python programming concepts and develop a useful application for managing personal expenses.
+
+# Week 6 – Student Club Management System
+
+Project Description
+
+This project is a simple Student Club Management System developed using Python. It manages student registrations, club branches, and student lists.
+
+Topics Covered
+
+* Tuples
+* Lists
+* Nested Lists
+* strip()
+* append()
+* insert()
+* len()
+* remove()
+* pop()
+* sorted()
+* sort()
+
+Features
+
+* Stores three main club branches: Software, Design, and Marketing.
+* Adds students using nested lists.
+* Removes extra spaces using strip().
+* Adds a president to the beginning of the list.
+* Displays the total number of registered students.
+* Removes students using remove() and pop().
+* Adds Burak Tan to the Design branch.
+* Sorts students alphabetically using sorted() and sort().
+
+File
+
+* club_management.py
+
+Purpose
+
+The purpose of this project is to practice Python list and tuple operations and understand temporary and permanent sorting.
